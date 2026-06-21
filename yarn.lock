@@ -14541,7 +14541,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mkdirp@npm:^0.5.1, mkdirp@npm:^0.5.6":
+"mkdirp@npm:^0.5.1":
   version: 0.5.6
   resolution: "mkdirp@npm:0.5.6"
   dependencies:
@@ -14640,17 +14640,14 @@ __metadata:
   linkType: hard
 
 "multer@npm:^2.0.1":
-  version: 2.0.2
-  resolution: "multer@npm:2.0.2"
+  version: 2.2.0
+  resolution: "multer@npm:2.2.0"
   dependencies:
     append-field: ^1.0.0
     busboy: ^1.6.0
     concat-stream: ^2.0.0
-    mkdirp: ^0.5.6
-    object-assign: ^4.1.1
     type-is: ^1.6.18
-    xtend: ^4.0.2
-  checksum: 187f3539b3d5b7f80a289288fc21d3e4116ab9ed21ac9b9ceb25272c7344d215e9572f7e7ed01edb876afddf24661b06578f2c0fc67f36655ebb51a13ccf83dc
+  checksum: ed283b3d7ef2a0d1b1d7d6b1688116ca370ba4cfdb0d3f7bb29bd0fdac42199bff87f580b109c559838e38f5af698f77fcf86550ec9240d330405c87912f75c4
   languageName: node
   linkType: hard
 
